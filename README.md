@@ -124,7 +124,7 @@ Ali Farhad
 
 Ahmed Naman
 
-Aland Abdulmajeed
+Aland Abdulmajeed Mahmood [Github](https://github.com/Hunter18298/) |  [Linkedin](https://www.linkedin.com/in/aland-abdulmajid-6450211b8/) | [Stack Overflow](https://stackoverflow.com/users/17595101/aland-goran) 
 
 Shad Khaleed
 
@@ -153,8 +153,6 @@ Karwan Msto
 Ali Farhad [Github](https://github.com/1-Ali-1/) |  [Linkedin](https://www.linkedin.com/in/ali-farhad-90b4b8198) | [Stack Overflow](https://stackoverflow.com/users/14529397/alifarhad-ali) 
 
 Ahmed Naman
-
-Aland Abdulmajeed
 
 Shad Khaleed
 
